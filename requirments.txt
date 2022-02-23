@@ -1,2 +1,4 @@
 flask
 flask-restful
+flask-security
+flask-sqlalchemy
