@@ -1,2 +1,3 @@
 # Week8
-Week eight live session code.
+
+Week eight live session code. You can clone this project
